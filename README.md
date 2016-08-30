@@ -6,7 +6,10 @@ Easy to use module starter for Angular 2.
 
 Quick and easy installation - no setup hassle - just focus on your code.
 
-There is a test Angular 2 app and a separate folder for your module. Module is imported into that app to test it, while developing.
+Helps to create NPM package and publish it easily.
+
+There is a test Angular 2 app and a separate folder for your module.
+Test app is essentially a development environment to test the module.
 
 ## Requirements
 - [NPM](https://npmjs.org/) - Node package manager
