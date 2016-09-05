@@ -41,6 +41,11 @@ When your module is ready you can publish it - files from `module` folder will b
 
 Notice! Make sure you have stored your user credentials as described here
 
+
+## Feedback
+
+Please [leave your feedback](https://github.com/moff/angular2-module-starter/issues) if you have noticed any issues or have a feature request.
+
 ## License
 
 The repository code is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
