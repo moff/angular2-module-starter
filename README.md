@@ -13,6 +13,8 @@ Test app is essentially a development environment to test the module.
 
 ## Requirements
 - [NPM](https://npmjs.org/) - Node package manager
+- [Typings](https://www.npmjs.com/package/typings) - The TypeScript Definition Manager
+- [TypeScript](https://www.npmjs.com/package/typescript) - Language for application scale JavaScript development
 
 
 ## Installation
