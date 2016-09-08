@@ -1,5 +1,7 @@
 # Angular 2 module starter
 
+![alt tag](http://i.imgur.com/8Ex7Gd7.png)
+
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](http://opensource.org/licenses/MIT)
 
 Easy to use module starter for Angular 2.
